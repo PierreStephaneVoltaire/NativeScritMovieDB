@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "K:\\movieDBApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\logo.png",
+        "source": "K:\\movieDBApp\\platforms\\android\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "K:\\movieDBApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\background.png",
+        "source": "K:\\movieDBApp\\platforms\\android\\src\\main\\res\\drawable-mdpi\\background.png"
+    },
+    {
+        "merged": "K:\\movieDBApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\icon.png",
+        "source": "K:\\movieDBApp\\platforms\\android\\src\\main\\res\\drawable-mdpi\\icon.png"
+    }
+]

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="K:\movieDBApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="K:\movieDBApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-25.3.0_5454070ca6f619fe43a8afbb733a6e705f272be6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="K:\movieDBApp\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="K:\movieDBApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-25.3.0_bcb200af86d87ecd3fb92a7c65d6af54c7221c00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\steph\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="K:\movieDBApp\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-25.3.0_317991af0f0f95ef67b5f5501681edfc20ee5098.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="K:\movieDBApp\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="K:\movieDBApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-25.3.0_0a18202d96a36e990e24fc491690c55c6cf991fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="K:\movieDBApp\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="K:\movieDBApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-25.3.0_4b12f48c6103503c613487eac66648dc6f02ac1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="K:\movieDBApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="K:\movieDBApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-25.3.0_1be88c1368008397e94ea06fb881c2bfd491636d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="K:\movieDBApp\platforms\android\build\intermediates\exploded-aar\movieDBApp\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="K:\movieDBApp\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_9fc4956c72335815702b6d155296cdad1eb0ea4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="K:\movieDBApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="K:\movieDBApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-25.3.0_317619f989bcf372f52fbbec75282734acdb3a59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="K:\movieDBApp\platforms\android\build\intermediates\exploded-aar\movieDBApp\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e45d63bd91f9a51a9e6f9c96be7a01deb415690">
+        <dex dex="K:\movieDBApp\platforms\android\build\intermediates\pre-dexed\F0\debug\movieDBApp-runtime-unspecified_464a367b468449ac1aee647406664aadb1b6b0d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="K:\movieDBApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="K:\movieDBApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-25.3.0_62ffffb8e3694c8ca09d930fcff6ed36b31a61a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="K:\movieDBApp\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="K:\movieDBApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-25.3.0_1e1583bd87a2b7138e882da2c7c6e26da9172b15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="K:\movieDBApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="K:\movieDBApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-25.3.0_2439cbaf468d910f365641834ef2f73f27a5d04d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="K:\movieDBApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="K:\movieDBApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-25.3.0_e5ebe3cb650672eee3db583a1ea4f6f5e153a230.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="K:\movieDBApp\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="K:\movieDBApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-25.3.0_aba9f3d3aed798d7266d05f69c65a2ba8bf7ce8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="K:\movieDBApp\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0366b761ae7f79749c685f953a1f9ced2e166de0">
+        <dex dex="K:\movieDBApp\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_7a83bcd4ed7e6cc21d9c570b4b74e383c61dd2d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="K:\movieDBApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="K:\movieDBApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-25.3.0_f7ef8eb99889b0eb9d3f1f94195291c8680b8d02.jar" />
+    </item>
+
+</items>
