@@ -5,6 +5,14 @@ export class Movie{
     private overview: string;
     private popularity: number;
     private first_air_date: string;
+    constructor(){
+   this.Title="N/A"
+   this.path="";
+   this.overview="N/A" 
+   this.popularity=0;
+   this.first_air_date="N/A"
+
+    }
     getMovieID(): number { return this.movieID; }
     getTitle(): string { return this.Title; }
     getPath(): string { return this.path; }

@@ -14,6 +14,7 @@ export class MovieService {
     private API_key = '31715fcf36132790e17c1ed113a3c822';
     private mode = 'search/multi?query=';
     private key = `&api_key=${this.API_key}`;
+    movieslist: Movie[] = new Array();
     constructor(private http: Http) { }
 
     getMovies(movie: string) {
@@ -85,8 +86,14 @@ export class MovieService {
             }
 
         });
-
+        this.movieslist = movies;
         return movies;
     }
-
+    getMovie(id: number): Movie {
+        for (let i = 0; i < this.movieslist.length; i++) {
+            if (this.movieslist[i].getMovieID() == id) {
+                return this.movieslist[i];
+            }
+        }
+    }
 }

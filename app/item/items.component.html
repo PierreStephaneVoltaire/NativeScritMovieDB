@@ -2,7 +2,20 @@
 </ActionBar>
 <StackLayout class="page">
     <StackLayout orientation="horizontal">
-     <TextField text="{{ movieName }}" width="75%" ></TextField>
-      <Button tap="buttonTap" width="25%" text="search" tap="searchMovies" ></Button>
+        <TextField [(ngModel)]='movieName' hint="enter movie name" width="75%"></TextField>
+        <Button width="25%" text="search" (tap)="searchMovies($event)"></Button>
     </StackLayout>
+    <ListView [items]="Movies" class="list-group">
+        <ng-template let-item="item" let-i="index">
+            <StackLayout orientation="horizontal" [nsRouterLink]="['/item', item.getMovieID()]">
+                <Image src="{{item.getPath()}}" height="75" width="75"></Image>
+                <StackLayout>
+                    <Label [text]='item.getTitle()' textWrap="true"></Label>
+                    <Label [text]='item.getOverview()'></Label>
+                </StackLayout>
+            </StackLayout>
+
+
+        </ng-template>
+    </ListView>
 </StackLayout>

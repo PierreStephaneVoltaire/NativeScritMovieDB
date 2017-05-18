@@ -7,6 +7,7 @@ import { MovieService } from "./item/movie.service";
 import { ItemsComponent } from "./item/items.component";
 import { NativeScriptHttpModule } from "nativescript-angular/http";
 import { NativeScriptModule } from "nativescript-angular/nativescript.module";
+import { NativeScriptFormsModule } from "nativescript-angular/forms"
 
 @NgModule({
     bootstrap: [
@@ -15,7 +16,9 @@ import { NativeScriptModule } from "nativescript-angular/nativescript.module";
     imports: [
         NativeScriptModule,
         AppRoutingModule,
-        NativeScriptHttpModule
+        NativeScriptHttpModule,
+        NativeScriptFormsModule,
+
     ],
     declarations: [
         AppComponent,

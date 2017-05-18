@@ -1,14 +1,14 @@
 [
     {
-        "merged": "K:\\movieDBApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\background.png",
-        "source": "K:\\movieDBApp\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\background.png"
+        "merged": "/media/steph/Code/movieDBApp/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/icon.png",
+        "source": "/media/steph/Code/movieDBApp/platforms/android/src/main/res/drawable-xhdpi/icon.png"
     },
     {
-        "merged": "K:\\movieDBApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\logo.png",
-        "source": "K:\\movieDBApp\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\logo.png"
+        "merged": "/media/steph/Code/movieDBApp/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/logo.png",
+        "source": "/media/steph/Code/movieDBApp/platforms/android/src/main/res/drawable-xhdpi/logo.png"
     },
     {
-        "merged": "K:\\movieDBApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\icon.png",
-        "source": "K:\\movieDBApp\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\icon.png"
+        "merged": "/media/steph/Code/movieDBApp/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/background.png",
+        "source": "/media/steph/Code/movieDBApp/platforms/android/src/main/res/drawable-xhdpi/background.png"
     }
 ]

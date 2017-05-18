@@ -1,4 +1,4 @@
-#Wed May 17 18:00:51 EDT 2017
-base.0=K\:\\movieDBApp\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0\\debug\\folders\\1000\\1f\\main
+#Wed May 17 19:10:21 EDT 2017
+base.0=/media/steph/Code/movieDBApp/platforms/android/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=K\:\\movieDBApp\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.0=/media/steph/Code/movieDBApp/platforms/android/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main/classes.dex

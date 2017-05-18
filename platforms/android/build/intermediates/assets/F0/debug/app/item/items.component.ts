@@ -15,15 +15,15 @@ import * as observable from "tns-core-modules/data/observable";
 })
 export class ItemsComponent implements OnInit {
  Movies:Movie[];
- movieName:string;
+ movieName:string="batman";
     constructor(private movieService: MovieService) { }
 
     ngOnInit(): void {
 
     }
 searchMovies(){
-    if (this.movieName!=undefined&&this.movieName!=null&&this.movieName.trim().length!=0)
-       this.movieService.getMovies(this.movieName).subscribe((param:Params)=>{this.Movies=param as Movie[];}); 
+        console.log("binding works");
+       this.movieService.getMovies(this.movieName).subscribe((param:Params)=>{this.Movies=param as Movie[]; console.log("didn't crash")});
 }
 
 }

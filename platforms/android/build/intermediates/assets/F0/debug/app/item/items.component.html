@@ -2,12 +2,7 @@
 </ActionBar>
 <StackLayout class="page">
     <StackLayout orientation="horizontal">
-     <TextField text="{{ movieName }}" width="75" /> <Button tap="buttonTap" width="25" />
+     <TextField text="{{ movieName }}" width="75%" ></TextField>
+      <Button tap="buttonTap" width="25%" text="search" tap="searchMovies()" ></Button>
     </StackLayout>
- <!--> <ListView [items]="items" class="list-group">
-        <ng-template let-item="item">
-            <Label [nsRouterLink]="['/item', item.id]" [text]="item.name"
-                class="list-group-item"></Label>
-        </ng-template>
-    </ListView>-->
 </StackLayout>
